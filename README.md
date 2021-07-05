@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola 👋 
 
-<!--
-**diamelagiardini/diamelagiardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡Bienvenide a mi Perfil de GitHub!
 
-Here are some ideas to get you started:
+### Aquí les va mi presentación 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://user-images.githubusercontent.com/73135153/124515210-34d31580-ddb5-11eb-994b-fcc9936e61f0.gif)
+
+## Gracias por tomarte el tiempo de querer conocer mis habilidades y progresos 💜
+#### 📌 Seguime en mis redes sociales:
+[Linkedin, ](https://www.linkedin.com/in/diamelagiardini/)
+[Twitter](https://twitter.com/diame_gi)
+
+#### 📌 Contactame por aca:
+[Mail](mailto:giardinidiamela@gmail.com) 
+
+### ✨Saludos✨
+
+
