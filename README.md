@@ -4,7 +4,7 @@
 
 ### Aquí les va mi presentación 👇
 
-![](![giardini_diamela_CV](https://user-images.githubusercontent.com/73135153/172746229-d459dd7a-1b94-4fcf-8fd4-0bb3cfed88f1.png))
+![giardini_diamela_CV](https://user-images.githubusercontent.com/73135153/172746364-cc03d948-8542-42d0-b211-1b36d65c899a.png)
 
 
 ## Gracias por tomarte el tiempo de querer conocer mis habilidades y progresos 💜
